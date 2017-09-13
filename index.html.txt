@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<style>
+<link href=”/style.css(ex)” type=”text.css(ex)” rel=”stylesheet(ex)”>
+<html>
+
+<head>
+
+<title>javalanguage</title>
+
+</head>
+
+<body>
+
+<h1>what is java</h1>
+
+<p1>Java is a general-purpose computer programming language that is concurrent, class-based, object-oriented </p1>
+
+</body>
+
+</html>
+<style>
+<link href=”/style.css(ex)” type=”text.css(ex)” rel=”stylesheet(ex)”>
+Color: rgb(123, 101, 134)
